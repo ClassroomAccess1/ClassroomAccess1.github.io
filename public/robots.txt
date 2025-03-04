@@ -1,3 +1,9 @@
+# *
 User-agent: *
-Allow: /
+Disallow: 
+
+# Host
+Host: https://newunblockedgames.gitlab.io/
+
+# Sitemaps
 Sitemap: https://newunblockedgames.gitlab.io/sitemap.xml

@@ -3281,3 +3281,98 @@ playstream.media, 1607, DIRECT
 playstream.media, 911, RESELLER
 pokkt.com, 5886, RESELLER,
 gothamads.com, 1236 , RESELLER, d9c86e5dec870222
+33across.com, 0010b00002ODU4HAAX, RESELLER, bbea06d9c4d2853c
+33across.com, 0010b00002e4MRRAA2, DIRECT, bbea06d9c4d2853c
+ad.plus, 22872525588, DIRECT
+adagio.io, 1417, DIRECT
+adpone.com, ff4766b6846596df0816, DIRECT
+advertising.com, 7574, DIRECT, e1a5b5b6e3255540
+adyoulike.com, 0bce3861af1d6e06fbaaf13529e76b6e, RESELLER, 4ad745ead2958bf7
+adyoulike.com, 639201a8e0f88c543a4eadc792fb1058, RESELLER, 4ad745ead2958bf7
+adyoulike.com, 7463c359225e043c111036d7a29affa5, RESELLER, 4ad745ead2958bf7
+ampliffy.com, amp00076, RESELLER, a34493ff032mp431
+amxrtb.com, 105199704, DIRECT
+amxrtb.com, 105199794, RESELLER
+amxrtb.com, 105199853, DIRECT
+appnexus.com, 10736, RESELLER, f5ab79cb980f11d1
+appnexus.com, 8826, RESELLER, f5ab79cb980f11d1
+betweendigital.com, 44774, RESELLER
+contextweb.com, 558511, RESELLER, 89ff185a4c4e857c
+contextweb.com, 562827, RESELLER, 89ff185a4c4e857c
+contextweb.com, 563371, RESELLER, 89ff185a4c4e857c
+dentsu.com, 71228, RESELLER
+freewheel.tv, 20393, RESELLER, 74e8e47458f74754
+freewheel.tv, 24377, RESELLER, 74e8e47458f74754
+improvedigital.com, 2106, RESELLER
+indexexchange.com, 194273, RESELLER, 50b1c356f2c5c8fc
+insticator.com, 4ec3ed85-2830-4174-9f7f-f545620598b9, RESELLER, b3511ffcafb23a32
+kargo.com, 8800, DIRECT
+kargo.com, 8824, RESELLER
+krushmedia.com, AJxF6R572a9M6CaTvK, RESELLER
+krushmedia.com, AJxF6R574a9M6CaTvK, RESELLER
+kueez.com, 78f0cb3041f91df7f6eeea7c7178fffc, RESELLER
+lijit.com, 273644, RESELLER, fafdf38b16bf6b2b
+lijit.com, 349013, DIRECT, fafdf38b16bf6b2b
+lijit.com, 407406, RESELLER, fafdf38b16bf6b2b
+lijit.com, 408376-eb, RESELLER, fafdf38b16bf6b2b
+lijit.com, 476824, DIRECT, fafdf38b16bf6b2b
+lijit.com, 476824-eb, DIRECT, fafdf38b16bf6b2b
+loopme.com, 11576, RESELLER, 6c8d5f95897a5a3b
+media.net, 8cu4jtrf9, RESELLER
+mediafuse.com, 711, DIRECT
+motorik.io, 100463, RESELLER
+nglcollective.com, 475, DIRECT
+onetag.com, 6e053d779444c00, RESELLER
+onetag.com, 7a07637ca4dd99f-OB, DIRECT
+onetag.com, 8d4b087143c49f0, RESELLER
+openx.com, 557564833, RESELLER, 6a698e2ec38604c6
+outbrain.com, 00f98002a95195662efb6f40c5311a76ff, RESELLER
+pubmatic.com, 157577, DIRECT, 5d62403b186f2ace
+pubmatic.com, 159668, RESELLER, 5d62403b186f2ace
+pubmatic.com, 159933, DIRECT, 5d62403b186f2ace
+pubmatic.com, 160907, RESELLER, 5d62403b186f2ace
+pubmatic.com, 161673, RESELLER, 5d62403b186f2ace
+pubmatic.com, 162110, RESELLER, 5d62403b186f2ace
+richaudience.com, HQ0oLFBWzp, RESELLER
+risecodes.com, 672ca0b2468a120001c76ef9, RESELLER
+rubiconproject.com, 16920, RESELLER, 0bfd66d529a55807
+rubiconproject.com, 17888, RESELLER, 0bfd66d529a55807
+rubiconproject.com, 20744, RESELLER, 0bfd66d529a55807
+rubiconproject.com, 24442, RESELLER, 0bfd66d529a55807
+rubiconproject.com, 26184, RESELLER, 0bfd66d529a55807
+rubiconproject.com, 9655, RESELLER, 0bfd66d529a55807
+sharethrough.com, Q9IzHdvp, RESELLER, d53b998a7bd4ecd2
+sharethrough.com, a6a34444, RESELLER, d53b998a7bd4ecd2
+sharethrough.com, n98xdzel, RESELLER, d53b998a7bd4ecd2
+smaato.com, 1100056344, RESELLER, 07bcf65f187117b4
+smartadserver.com, 4111, RESELLER, 060d053dcf45cbf3
+smartadserver.com, 4288, RESELLER, 060d053dcf45cbf3
+smartadserver.com, 4342, RESELLER, 060d053dcf45cbf3
+smartadserver.com, 4926, RESELLER, 060d053dcf45cbf3
+sonobi.com, 4c4fba1717, RESELLER, d1a215d9eb5aee9e
+spotim.market, sp_AYL2022, RESELLER, 077e5f709d15bdbb
+springserve.com, 1247, RESELLER, a24eb641fc82e93d
+start.io, 185522363, RESELLER
+telaria.com, 2auap-45web, RESELLER, 1a4e959a1b50034a
+telaria.com, 2auap-ich32, RESELLER, 1a4e959a1b50034a
+telaria.com, 2auap-zihku, RESELLER, 1a4e959a1b50034a
+telaria.com, 51vtw, RESELLER, 1a4e959a1b50034a
+telaria.com, lkiu7-jqvg1, RESELLER, 1a4e959a1b50034a
+thebrave.io, 1234679, DIRECT, c25b2154543746ac
+themediagrid.com, 2LYG9A, RESELLER, 35d5010d7789b49d
+themediagrid.com, P19GFJ, DIRECT, 35d5010d7789b49d
+themediagrid.com, RYIDPE, RESELLER, 35d5010d7789b49d
+themediagrid.com, uot45z, RESELLER, 35d5010d7789b49d
+tremorhub.com, 2auap-45web, RESELLER, 1a4e959a1b50034a
+tremorhub.com, 2auap-ich32, RESELLER, 1a4e959a1b50034a
+tremorhub.com, 2auap-zihku, RESELLER, 1a4e959a1b50034a
+tremorhub.com, 51vtw, RESELLER, 1a4e959a1b50034a
+tremorhub.com, lkiu7-jqvg1, RESELLER, 1a4e959a1b50034a
+undertone.com, 4205, RESELLER, d954590d0cb265b9
+video.unrulymedia.com, 2736329702851206590, RESELLER, 6f752381ad5ec0e5
+video.unrulymedia.com, 3486482593, RESELLER, 6f752381ad5ec0e5
+video.unrulymedia.com, 895733750, DIRECT, 6f752381ad5ec0e5
+xapads.com, 145030, RESELLER
+yieldmo.com, 3133660606033240149, RESELLER
+yieldmo.com, 3732919948490514514, RESELLER
+zetaglobal.com, 108, RESELLER

@@ -1,2 +1,0 @@
-(self.webpackChunk_N_E=self.webpackChunk_N_E||[]).push([[690,992],{4690:function(e,n,s){"use strict";s.r(n),s.d(n,{default:function(){return a}});var t=s(5893);s(4298);function a(){return(0,t.jsx)("div",{className:"ad-728X90-bottom",children:(0,t.jsx)("div",{className:"Leaderboard"})})}},4298:function(e,n,s){e.exports=s(699)}}]);
-//# sourceMappingURL=690.b1a8cac797db1e05.js.map

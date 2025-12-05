@@ -1,2 +1,0 @@
-"use strict";(self.webpackChunk_N_E=self.webpackChunk_N_E||[]).push([[858],{858:function(e,s,n){n.r(s),n.d(s,{default:function(){return c}});var a=n(5893);n(4298);function c(e){return(0,a.jsx)("div",{className:"ad-160x600",id:e.id,children:(0,a.jsx)("div",{className:"wide-skyscraper"})})}}}]);
-//# sourceMappingURL=858.3c63e8e528380a5a.js.map

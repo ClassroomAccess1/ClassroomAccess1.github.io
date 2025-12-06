@@ -1,7 +1,12 @@
-<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
-<!-- Uploaded to: SVG Repo, www.svgrepo.com, Transformed by: SVG Repo Mixer Tools -->
-<svg fill="#00b3ff" width="800px" height="800px" viewBox="0 0 52 52" xmlns="http://www.w3.org/2000/svg" enable-background="new 0 0 52 52" xml:space="preserve" stroke="#00b3ff">
-<g id="SVGRepo_bgCarrier" stroke-width="0"/>
-<g id="SVGRepo_tracerCarrier" stroke-linecap="round" stroke-linejoin="round"/>
-<g id="SVGRepo_iconCarrier"> <path d="M31.6,21.6c-1.2,0-2.2-1-2.2-2.2V5.5c0-1.2,1-2.2,2.2-2.2h14.2c1.2,0,2.2,1,2.2,2.2v13.9 c0,1.2-1,2.2-2.2,2.2H31.6z"/> <path d="M37.7,29.8l-8.2,8.9c-0.5,0.5-0.5,1.3,0,1.9l8.2,8.9c0.5,0.6,1.5,0.6,2,0l8.2-8.9c0.5-0.5,0.5-1.3,0-1.9 l-8.2-8.9C39.2,29.2,38.3,29.2,37.7,29.8z"/> <circle cx="13" cy="39.4" r="9.3"/> <path d="M4.8,6.5l7.2-4.1c0.7-0.4,1.5-0.4,2.1,0l7.1,4.1c0.7,0.4,1.1,1.1,1.1,1.9v8.2c0,0.8-0.4,1.5-1.1,1.9 l-7.1,4.1c-0.7,0.4-1.5,0.4-2.1,0l-7.2-4.1c-0.7-0.4-1.1-1.1-1.1-1.9V8.4C3.7,7.6,4.1,6.9,4.8,6.5z"/> </g>
-</svg>
+<svg width="72" height="72" viewBox="0 0 72 72" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M35.972 71.944C55.8388 71.944 71.944 55.8388 71.944 35.972C71.944 16.1053 55.8388 0 35.972 0C16.1052 0 0 16.1053 0 35.972C0 55.8388 16.1052 71.944 35.972 71.944Z" fill="url(#paint0_linear_23_89)"/>
+<path d="M18.705 41.3C21.6476 41.3 24.033 38.9146 24.033 35.972C24.033 33.0295 21.6476 30.644 18.705 30.644C15.7624 30.644 13.377 33.0295 13.377 35.972C13.377 38.9146 15.7624 41.3 18.705 41.3Z" fill="#FDFBFD"/>
+<path d="M36.193 41.3C39.1356 41.3 41.521 38.9146 41.521 35.972C41.521 33.0295 39.1356 30.644 36.193 30.644C33.2504 30.644 30.865 33.0295 30.865 35.972C30.865 38.9146 33.2504 41.3 36.193 41.3Z" fill="#FDFBFD"/>
+<path d="M53.681 41.3C56.6236 41.3 59.009 38.9146 59.009 35.972C59.009 33.0295 56.6236 30.644 53.681 30.644C50.7384 30.644 48.353 33.0295 48.353 35.972C48.353 38.9146 50.7384 41.3 53.681 41.3Z" fill="#FDFBFD"/>
+<defs>
+<linearGradient id="paint0_linear_23_89" x1="35.9718" y1="5.6858" x2="35.9718" y2="70.9902" gradientUnits="userSpaceOnUse">
+<stop offset="0.0112" stop-color="#00C2FF"/>
+<stop offset="1" stop-color="#0095FF"/>
+</linearGradient>
+</defs>
+</svg>
